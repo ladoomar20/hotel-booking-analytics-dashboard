@@ -22,6 +22,4 @@ Power BI
 Excel  
 Relational Data Modeling
 
-## Dashboard Preview
 
-![Dashboard Preview](assets/dashboard-preview.png)
